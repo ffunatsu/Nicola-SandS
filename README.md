@@ -1,6 +1,6 @@
 # Nicola-SandS
 
-親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、SandS化したものです。
+親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、SandS（Space and Shift）化したものです。
 
 - Windows・やまぶきR用
   - [Nicola-SandS.yab](Nicola-SandS.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
