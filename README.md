@@ -2,7 +2,8 @@
 
 親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、SandS化したものです。
 
-- [Nicola-SandS.yab (やまぶきR)](Nicola-SandS.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
+- [Nicola-SandS.yab (やまぶきR、Windows)](Nicola-SandS.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
+- [Nicola-SandS.karabiner.json (Karabiner-Elements、Mac)](Nicola-SandS.karabiner.json)
  
 ## 打ち方
 
@@ -17,10 +18,6 @@
   - 例えば:
     - D + Y の同時押し → 「ぱ」
     - D + P の同時押し → 「ぴ」
-
-## TODO
-
-- Karabiner-Elements用のファイルも置く
 
 ## License
 
