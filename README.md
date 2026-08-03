@@ -2,8 +2,8 @@
 
 親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、SandS化したものです。
 
-- [Nicola-SandS.yab (やまぶきR)](Nicola-SandS.yab)
-
+- [Nicola-SandS.yab (やまぶきR)](Nicola-SandS.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
+ 
 ## 打ち方
 
 - 非シフト面は親指シフト（Nicola）の定義通りです。
