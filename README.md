@@ -2,8 +2,10 @@
 
 親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、SandS化したものです。
 
-- [Nicola-SandS.yab (やまぶきR、Windows)](Nicola-SandS.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
-- [Nicola-SandS.karabiner.json (Karabiner-Elements、Mac)](Nicola-SandS.karabiner.json)
+- Windows・やまぶきR用
+  - [Nicola-SandS.yab](Nicola-SandS.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
+- Mac・Karbiner-Elements用
+  - [Nicola-SandS.karabiner.json](Nicola-SandS.karabiner.json)
  
 ## 打ち方
 
