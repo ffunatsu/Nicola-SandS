@@ -1,6 +1,7 @@
 # Nicola-SandS
 
 親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、SandS（Space and Shift）化したものです。
+濁音と半濁音については、中指同時シフト（F/J、Dとの同時押し）を採用しています。
 
 - Windows・やまぶきR用
   - [Nicola-SandS.yab](Nicola-SandS.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
