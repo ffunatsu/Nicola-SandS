@@ -10,11 +10,11 @@
 
 ## 設定ファイル
 
-- Windows・やまぶきR用
+- ＜Windows＞ やまぶきR用
   - [Nicola-SandS.yab](Nicola-SandS.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
     - やまぶきRの設定で、**スペースキーを左親指シフトに設定してください。**
       ![screenshot.png](docs/screenshot.png)
-- Mac・Karbiner-Elements用
+- ＜Mac＞ Karbiner-Elements用
   - [Nicola-SandS.karabiner.json](Nicola-SandS.karabiner.json) (Complex modification用です。説明は割愛します。)
  
 ## 打ち方
