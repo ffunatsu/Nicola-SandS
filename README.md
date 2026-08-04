@@ -1,15 +1,18 @@
 # Nicola-SandS
 
-親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、SandS（Space and Shift）化したものです。
+親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、**SandS（Space and Shift）化**したものです。
 
 濁音と半濁音については、中指同時シフト（F/J、Dとの同時押し）を採用しています。
+
+> [!Note]
+> SandS版以外に、中指同時シフト版の [Nicola-naka](https://github.com/ffunatsu/Nicola-naka) も制作していますので、あわせてご検討ください。
 
 ## 設定ファイル
 
 - Windows・やまぶきR用
   - [Nicola-SandS.yab](Nicola-SandS.yab) （**※ UTF-8ではなく、UTF-16LEまたはShift-JISで保存しないと正しく動きません。**）
 - Mac・Karbiner-Elements用
-  - [Nicola-SandS.karabiner.json](Nicola-SandS.karabiner.json)
+  - [Nicola-SandS.karabiner.json](Nicola-SandS.karabiner.json) (Complex modification用です。説明は割愛します。)
  
 ## 打ち方
 
