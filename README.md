@@ -5,7 +5,8 @@
 濁音と半濁音については、中指同時シフト（F/J、Dとの同時押し）を採用しています。
 
 > [!Note]
-> SandS版以外に、中指同時シフト版の [Nicola-naka](https://github.com/ffunatsu/Nicola-naka) も制作していますので、あわせてご検討ください。
+> SandS版以外に、中指同時シフト版の [Nicola-naka](https://github.com/ffunatsu/Nicola-naka) も制作していますので、あわせてご検討ください。<br>
+> （Nicola-naka でもSandSが使えるので、実質的に上位互換になっています。）
 
 ## 設定ファイル
 
