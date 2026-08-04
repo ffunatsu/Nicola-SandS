@@ -1,5 +1,7 @@
 # Nicola-SandS
 
+![layout.jpg](docs/layout.jpg)
+
 親指シフト（Nicola）を、無変換・変換キーのないUSキーボードでも使えるように、**SandS（Space and Shift）化**したものです。
 
 濁音と半濁音については、中指同時シフト（F/J、Dとの同時押し）を採用しています。
